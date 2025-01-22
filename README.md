@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-**farhan-farfar/farhan-farfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨farhan-farfar✨ 
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning data analytics and artificial intelegent<br>💬 Ask me about<br>⚡ Fun fact
